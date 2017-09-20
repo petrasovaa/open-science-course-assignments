@@ -14,6 +14,9 @@ whether the project is active, and anything else what you think is important.
 OpenDroneMap turns images into three dimensional geographic data that can be used in
 combination with other geographic datasets.
 
+![logo](https://avatars1.githubusercontent.com/u/7285716?v=4&s=200 "Logo")
+
+
 #### License
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 (created by FSF)
